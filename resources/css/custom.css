@@ -1,0 +1,40 @@
+header {
+    position: relative;
+}
+
+body {
+    /* font-family: "Noto Sans JP", sans-serif; */
+    font-family: "Yu Mincho", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+[type='checkbox']:checked, [type='radio']:checked {
+
+    background-color: #6366F1 !important;
+
+}
+
+.ts-control {
+    border-radius: 0;
+}
+
+#page-header h2 {
+
+    letter-spacing: 0.02rem;
+    text-shadow: 0 0 0.1rem rgba(0, 0, 0, 0.1);
+
+}
+
+.dashboard-nav-link {
+
+    line-height: 1.3rem;
+
+}
+
+.swal2-title {
+
+    font-size: 1.2rem;
+
+}

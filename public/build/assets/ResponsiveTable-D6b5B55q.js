@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as s,d as r,b1 as t}from"./vue.m-BoM48gZa.js";const c={},n={class:"overflow-x-auto"};function a(e,_){return s(),r("div",n,[t(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as R};

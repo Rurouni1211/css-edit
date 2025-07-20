@@ -1,0 +1,1 @@
+import{_ as t}from"./GuestLayout-BLXmUMDc.js";import{b as a,d as r,e,u as s,w as n,F as o,Z as _,g as c}from"./vue.m-BoM48gZa.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const f={__name:"TermsAndConditions",setup(m){return(l,i)=>(a(),r(o,null,[e(s(_),{title:"利用規約"}),e(t,null,{default:n(()=>[c(" ここに利用規約 ")]),_:1})],64))}};export{f as default};

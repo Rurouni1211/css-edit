@@ -1,0 +1,1 @@
+import{_ as t}from"./GuestLayout-BLXmUMDc.js";import{b as a,d as r,e,u as s,w as o,F as n,Z as _,g as c}from"./vue.m-BoM48gZa.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const d={__name:"StoreDetails",setup(l){return(m,u)=>(a(),r(n,null,[e(s(_),{title:"特定商取引上の表記"}),e(t,null,{default:o(()=>[c(" ここに特定商取引上の表記 ")]),_:1})],64))}};export{d as default};

@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as t,d as o,f as r,b1 as a}from"./vue.m-BoM48gZa.js";const c={},n={class:"text-gray-500"};function l(e,_){return t(),o("div",n,[r("small",null,[a(e.$slots,"default")])])}const i=s(c,[["render",l]]);export{i as I};

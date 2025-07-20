@@ -1,0 +1,1 @@
+import{_ as t}from"./GuestLayout-BLXmUMDc.js";import{b as a,d as r,e,u as o,w as s,F as n,Z as _,g as c}from"./vue.m-BoM48gZa.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const d={__name:"AboutMe",setup(l){return(m,u)=>(a(),r(n,null,[e(o(_),{title:"コンセプト"}),e(t,null,{default:s(()=>[c(" ここにコンセプト ")]),_:1})],64))}};export{d as default};

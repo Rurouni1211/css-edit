@@ -1,0 +1,1 @@
+const c=r=>{const l="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",a="0123456789",s=l.split(""),o=a.split("");let t="";for(let e=2;e<r;e++)if(e%3!==0){const n=Math.floor(Math.random()*s.length);t+=s[n]}else{const n=Math.floor(Math.random()*o.length);t+=o[n]}return t};export{c as g};

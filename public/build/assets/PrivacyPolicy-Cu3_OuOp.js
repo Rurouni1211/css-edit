@@ -1,0 +1,1 @@
+import{_ as t}from"./GuestLayout-BLXmUMDc.js";import{b as a,d as r,e,u as o,w as s,F as c,Z as n,g as _}from"./vue.m-BoM48gZa.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const d={__name:"PrivacyPolicy",setup(l){return(m,i)=>(a(),r(c,null,[e(o(n),{title:"プライバシーポリシー"}),e(t,null,{default:s(()=>[_(" ここにプライバシーポリシー ")]),_:1})],64))}};export{d as default};

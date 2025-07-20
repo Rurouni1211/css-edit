@@ -1,0 +1,245 @@
+{
+    "cullFace": "DISABLE",
+    "id": "0585642b-20e0-4ad3-8493-f3b5cf7d954e",
+    "name": "Bottom_Leather1",
+    "reflection": 0.1,
+    "shadeless": false,
+    "stateSetID": 9,
+    "version": 3,
+    "channels": {
+        "AlphaMask": {
+            "enable": false,
+            "factor": 1,
+            "invert": false
+        },
+        "Opacity": {
+            "enable": false,
+            "factor": 1,
+            "type": "alphaBlend",
+            "invert": false,
+            "ior": 1.05,
+            "roughnessFactor": 0,
+            "useMicrosurfaceTexture": true,
+            "useNormalOffset": false,
+            "useAlbedoTint": false,
+            "thinLayer": false,
+            "refractionColor": [
+                1,
+                1,
+                1
+            ]
+        },
+        "SpecularHardness": {
+            "enable": true,
+            "factor": 50
+        },
+        "BumpMap": {
+            "enable": false,
+            "factor": 1
+        },
+        "Displacement": {
+            "enable": false,
+            "factor": 0
+        },
+        "SubsurfaceTranslucency": {
+            "enable": false,
+            "factor": 1,
+            "thicknessFactor": 0.0033607141523741475,
+            "color": [
+                1,
+                0.36999999999999983,
+                0.2999999999999998
+            ]
+        },
+        "EmitColor": {
+            "enable": true,
+            "factor": 1,
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "type": "additive"
+        },
+        "SubsurfaceScattering": {
+            "enable": false,
+            "factor": 0.0033607141523741475,
+            "profile": 1
+        },
+        "NormalMap": {
+            "enable": true,
+            "factor": 1,
+            "flipY": true,
+            "UVTransforms": {
+                "scale": [
+                    1,
+                    1
+                ],
+                "offset": [
+                    0,
+                    0
+                ],
+                "rotation": 0
+            },
+            "texture": {
+                "magFilter": "LINEAR",
+                "minFilter": "LINEAR_MIPMAP_LINEAR",
+                "wrapS": "REPEAT",
+                "wrapT": "REPEAT",
+                "textureTarget": "TEXTURE_2D",
+                "internalFormat": "RGB",
+                "texCoordUnit": 0,
+                "uid": "18b5c8e8cc2b4691b53e5d4ad3be7189"
+            }
+        },
+        "AOPBR": {
+            "enable": false,
+            "factor": 1,
+            "occludeSpecular": false
+        },
+        "Matcap": {
+            "enable": true,
+            "factor": 1,
+            "curvature": 0,
+            "color": [
+                1,
+                1,
+                1
+            ],
+            "UVTransforms": {
+                "scale": [
+                    1,
+                    1
+                ],
+                "offset": [
+                    0,
+                    0
+                ],
+                "rotation": 0
+            },
+            "texture": {
+                "magFilter": "LINEAR",
+                "minFilter": "LINEAR_MIPMAP_LINEAR",
+                "wrapS": "REPEAT",
+                "wrapT": "REPEAT",
+                "textureTarget": "TEXTURE_2D",
+                "internalFormat": "RGB",
+                "texCoordUnit": 0,
+                "uid": "35c4d334eded44d8a657f390954a32dd"
+            }
+        },
+        "ClearCoat": {
+            "enable": false,
+            "factor": 1,
+            "tint": [
+                0.914,
+                0.914,
+                0.914
+            ],
+            "thickness": 5,
+            "reflectivity": 0
+        },
+        "ClearCoatNormalMap": {
+            "enable": true,
+            "factor": 1,
+            "flipY": true
+        },
+        "ClearCoatRoughness": {
+            "enable": true,
+            "factor": 0.04
+        },
+        "DiffuseColor": {
+            "enable": true,
+            "factor": 1,
+            "color": [
+                0.7,
+                0.7,
+                0.7
+            ]
+        },
+        "DiffuseIntensity": {
+            "enable": true,
+            "factor": 1,
+            "color": [
+                1,
+                1,
+                1
+            ]
+        },
+        "SpecularColor": {
+            "enable": true,
+            "factor": 1,
+            "color": [
+                1,
+                1,
+                1
+            ]
+        },
+        "DiffusePBR": {
+            "enable": true,
+            "factor": 1,
+            "color": [
+                0.04518620438567554,
+                0,
+                0
+            ]
+        },
+        "AlbedoPBR": {
+            "enable": false,
+            "factor": 1,
+            "color": [
+                0.7,
+                0.7,
+                0.7
+            ]
+        },
+        "SpecularPBR": {
+            "enable": true,
+            "factor": 0.047,
+            "color": [
+                1,
+                1,
+                1
+            ]
+        },
+        "GlossinessPBR": {
+            "enable": true,
+            "factor": 0.449
+        },
+        "RoughnessPBR": {
+            "enable": false,
+            "factor": 0.6
+        },
+        "MetalnessPBR": {
+            "enable": false,
+            "factor": 0
+        },
+        "Sheen": {
+            "enable": false,
+            "factor": 1,
+            "colorFactor": [
+                1,
+                1,
+                1
+            ]
+        },
+        "SheenRoughness": {
+            "enable": false,
+            "factor": 1
+        },
+        "SpecularF0": {
+            "enable": false,
+            "factor": 0.5
+        },
+        "CavityPBR": {
+            "enable": false,
+            "factor": 1
+        },
+        "Anisotropy": {
+            "enable": false,
+            "factor": 1,
+            "direction": 0,
+            "flipXY": true
+        }
+    }
+}
