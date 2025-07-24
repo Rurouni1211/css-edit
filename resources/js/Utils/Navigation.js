@@ -6,9 +6,12 @@
  * Main navigation menu items
  */
 export const mainMenuItems = [
-    { name: "ブランドについて", url: "/concept" },
+    //{ name: "ブランドについて", url: "/concept" },
     { name: "PRODUCT", url: "/product" },
+    { name: "News", url: "#" },
     { name: "CONCEPT", url: "/concept" },
+    { name: "Material", url: "/#" },
+    { name: "Shop", url: "/product" },
 ];
 
 /**

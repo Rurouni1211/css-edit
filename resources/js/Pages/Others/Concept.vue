@@ -2,7 +2,9 @@
     <Head title="CONCEPT | WAMORE" />
     <GuestLayout>
         <div class="concept-page">
-            <div class="absolute top-20 left-14 z-10 text-[15px] text-main-600">
+            <div
+                class="absolute top-20 left-4 md:left-14 z-10 text-[15px] text-main-600"
+            >
                 <span>TOP</span>
                 <span class="mx-1">&gt;</span>
                 <span>CONCEPT</span>

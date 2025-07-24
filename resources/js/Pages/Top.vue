@@ -50,18 +50,6 @@
                     </a>
                 </div>
 
-                <!-- TOP CENTER: WAMORE -->
-                <div
-                    class="absolute top-4 md:top-6 left-1/2 transform -translate-x-1/2 z-20"
-                >
-                    <a
-                        href="#"
-                        class="text-main-200 hover:text-main-100 text-sm md:text-[20px] transition-colors opacity-90"
-                    >
-                        WAMORE
-                    </a>
-                </div>
-
                 <!-- MITSU - 90度回転、左端 -->
                 <a
                     href="#"
